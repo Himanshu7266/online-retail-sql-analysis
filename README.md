@@ -1,11 +1,11 @@
 # Online Retail SQL Analysis
 
-## 📌 Project Overview
+##  Project Overview
 This is an end-to-end SQL project on Online Retail transactional data.
 The project covers complete data handling from raw data ingestion
 to business-level analytics using MySQL.
 
-## 🗂 Dataset Description
+##  Dataset Description
 The dataset contains retail transaction records including:
 - Invoice numbers
 - Product details
@@ -13,14 +13,14 @@ The dataset contains retail transaction records including:
 - Customer information
 - Country-wise sales
 
-## ⚙️ Project Workflow
+##  Project Workflow
 1. Created database and raw staging table
 2. Cleaned and validated raw retail data
 3. Normalized data into relational tables
 4. Performed business analysis using SQL
 5. Implemented advanced SQL concepts
 
-## 📁 SQL Scripts
+##  SQL Scripts
 | File | Description |
 |-----|------------|
 | 01_schema.sql | Database & table creation |
@@ -29,22 +29,22 @@ The dataset contains retail transaction records including:
 | 04_analysis.sql | Business insight queries |
 | 05_advanced.sql | View, procedure, trigger & indexing |
 
-## 📊 Business Insights
+##  Business Insights
 - Total & monthly revenue trends
 - Top customers and products
 - Country-wise revenue analysis
 - Repeat vs one-time customers
 - Peak sales hours and days
 
-## 🧩 ER Diagram
+##  ER Diagram
 ER diagram and sample outputs are available in the `results/` folder.
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - MySQL
 - SQL
 - GitHub
 
-## 👤 Author
+##  Author
 **Himanshu Rai**
 
 
